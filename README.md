@@ -32,7 +32,7 @@ The connection utilizes the Raspberry Pi 5 GPIO header and the FPGA GPIO pins, o
 
 ## 📄 Documentation & Results
 For a comprehensive analysis of the circuit design, pin assignments, and experimental validation, please refer to the technical report:
-* **[Technical Lab Report - SPI Synthesizer]())**
+* **[Technical Lab Report - SPI Synthesizer](https://github.com/dilen1997/RPi5-FPGA-SPI-Music-Synthesizer/blob/main/report.pdf))**
 
 ### System Preview
 * **RTL Viewer / BDF Diagram:** Detailed logic flow within the FPGA.
