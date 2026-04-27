@@ -14,3 +14,6 @@ The system is built on the MAX 10 FPGA using several custom Verilog modules:
 * **Hardware:** Raspberry Pi 5, Altera DE10-Lite (MAX 10) FPGA.
 * **Languages/Tools:** Verilog, Quartus Prime, Python/C (for the Pi Master).
 * **Protocols:** SPI (Serial Peripheral Interface).
+
+
+For full technical documentation, circuit diagrams, and system screenshots, please refer to the [Technical Report](docs/Dilen_Guerchon_318441482_LabFinal.pdf)
